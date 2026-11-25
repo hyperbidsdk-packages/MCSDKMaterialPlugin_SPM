@@ -19,8 +19,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MCSDKMaterialPlugin",
-            url: "https://topon-sdk-release.oss-accelerate-overseas.aliyuncs.com/MCSDK/iOS/MaterialPlugin/2.0.0/MCSDKMaterialPlugin-2.0.0.zip",
-            checksum: "0000000000000000000000000000000000000000000000000000000000000000"
+            url: "https://topon-sdk-release.oss-accelerate-overseas.aliyuncs.com/MCSDK/iOS/MaterialPlugin/1.2.0/MCSDKMaterialPlugin-1.2.0.zip",
+            checksum: "591d297501b652a71a5d1e1da46009ff77cfa6e6274f81d2f8affdc22acadf96"
         )
     ]
 )
